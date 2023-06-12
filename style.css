@@ -2,11 +2,11 @@
 
 
     background-color:hsl(0, 0%, 100%);
- margin-top: 500px;
-margin-left: 1440px;
+margin: auto;
     height: 650px;
     width: 400px;
     border-radius: 30px;
+  
     
 
 }
@@ -21,6 +21,9 @@ font-weight:bold
 font-size: 20px;
 text-align: center;
 }
+@media(max-width=400px){
+    .whiteBox{
+        width: 470px;
+    }
 
-
-
+}
