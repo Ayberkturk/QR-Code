@@ -1,0 +1,26 @@
+#whiteBox{
+
+
+    background-color:hsl(0, 0%, 100%);
+ margin-top: 500px;
+margin-left: 1440px;
+    height: 650px;
+    width: 400px;
+    border-radius: 30px;
+    
+
+}
+.long{
+font-size: 30px;
+margin: auto;
+text-align: center;
+font-weight:bold
+}
+
+.short{
+font-size: 20px;
+text-align: center;
+}
+
+
+
